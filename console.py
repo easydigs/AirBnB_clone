@@ -1,7 +1,9 @@
 #!/usr/bin/python3
+
 """
 Airbnb Console
 """
+
 import cmd
 from models.base_model import BaseModel
 from models.__init__ import storage

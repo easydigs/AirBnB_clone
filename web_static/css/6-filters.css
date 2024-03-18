@@ -35,7 +35,7 @@ button:hover {
     text-align: left;
     margin-left: 40px;
     order: 0;
-
+    position: relative;
 }
 
 .amenities {
@@ -44,6 +44,7 @@ button:hover {
     text-align: left;
     margin-left: 40px;
     order: 1;
+    position: relative;
 }
 
 .locations h3,

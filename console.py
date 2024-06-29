@@ -1288,8 +1288,7 @@ must be between double quotes **")
                                or (key[0] == "'" and key[-1] == "'"):
                                 key = key[1:-1]
                             else:
-                                print("** Dictionary object keys must be \
-strings **")
+                                print("** Dictionary object keys must be \ strings **")
                                 return
                             if (value[0] == '"' and value[-1] == '"')\
                                or (value[0] == "'" and value[-1] == "'"):
